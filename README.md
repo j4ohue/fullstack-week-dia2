@@ -77,3 +77,8 @@ Todas as rotas `/tasks` exigem `Authorization: Bearer <token>` e filtram por usu
 - Não dá para reordenar cards dentro da mesma coluna (o campo `position` já existe no banco).
 - O token fica no `localStorage`, aceitável para um MVP de estudo.
 - Sem testes automatizados.
+
+## Adições
+
+- Acredito que eu possa polir mais o front com um sistema drag and release
+- quero adicionar um calendario semanal para facilitar encontar as tarefas
